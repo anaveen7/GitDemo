@@ -9,6 +9,12 @@ public class RestAPI {
 		System.out.println("This is PostMan Test2");
 		System.out.println("This is PostMan Test3");
 		System.out.println("This is PostMan Test4");
+		
+		System.out.println("This is Rest API Test2");
+		System.out.println("This is Rest API Test3");
+		System.out.println("This is Rest API Test4");
+		System.out.println("This is Rest API Test5");
+
 
 
 
