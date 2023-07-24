@@ -1,5 +1,7 @@
 package qaclickacademy;
 
+import org.junit.Test;
+
 public class RestAPI {
 
 	public static void main(String[] args) {
@@ -15,9 +17,9 @@ public class RestAPI {
 		System.out.println("This is Rest API Test4");
 		System.out.println("This is Rest API Test5");
 
-
-
-
 	}
+	@Test
+	public void RestAssuredTest() {
+		System.out.println("Rest API Testing");
 
 }
