@@ -21,5 +21,5 @@ public class RestAPI {
 	@Test
 	public void RestAssuredTest() {
 		System.out.println("Rest API Testing");
-
+	}
 }
