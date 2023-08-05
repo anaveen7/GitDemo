@@ -25,4 +25,9 @@ public class SeleniumTest {
 	public void webAutomationTest3() {
 		System.out.println("This is the test for WebAutomation");
 	}
+	@Test
+	public void webAutomationTest3e() {
+		System.out.println("This is the test for WebAutomation");
+	}
+
 }
