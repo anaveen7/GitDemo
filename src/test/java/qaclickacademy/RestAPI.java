@@ -22,4 +22,12 @@ public class RestAPI {
 	public void RestAssuredTest() {
 		System.out.println("Rest API Testing");
 	}
+	@Test
+	public void RestAssuredTest2() {
+		System.out.println("Rest API Testing develop");
+	}
+	@Test
+	public void RestAssuredTest3() {
+		System.out.println("Rest API Testing develop");
+	}
 }

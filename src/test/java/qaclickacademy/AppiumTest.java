@@ -17,4 +17,12 @@ public class AppiumTest {
 	public void IOSTest() {
 		System.out.println("Verifying the ios Phone");
 	}
+	@Test
+	public void IOSTest2() {
+		System.out.println("Verifying the ios Phone develop");
+	}
+	@Test
+	public void IOSTest3() {
+		System.out.println("Verifying the ios Phone develop");
+	}
 }
