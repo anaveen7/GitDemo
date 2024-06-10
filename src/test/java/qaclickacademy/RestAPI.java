@@ -34,4 +34,9 @@ public class RestAPI {
 	public void OneBranchToOtherBanch() {
 		System.out.println("Rest API Testing develop");
 	}
+	
+	@Test
+	public void OneBranchToOtherBanchTwo() {
+		System.out.println("Rest API Testing develop");
+	}
 }
