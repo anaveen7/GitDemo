@@ -30,4 +30,8 @@ public class RestAPI {
 	public void RestAssuredTest3() {
 		System.out.println("Rest API Testing develop");
 	}
+	@Test
+	public void OneBranchToOtherBanch() {
+		System.out.println("Rest API Testing develop");
+	}
 }
